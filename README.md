@@ -4,14 +4,10 @@
 
 <br>
 <br>
-
 - 🌱 I’m currently learning **tailwind css, redux**
 <br>
-
 - 📫 How to reach me **baris.fb.1997@hotmail.com**
-
   <br>
-
 - 💻 You can visit my portfolio page **coming soon
 
 <h3 align="left">Connect with me:</h3>
