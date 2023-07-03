@@ -12,7 +12,7 @@
 
   <br>
 
-  💻 You can visit my portfolio page **coming soon
+- 💻 You can visit my portfolio page **coming soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
