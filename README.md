@@ -5,7 +5,7 @@
 
 - 💻 I am currently looking for a job as a React Frontend Developer.
 
-- 🌱 I’m currently learning **redux, tailwind css**
+- 🌱 I’m currently learning **redux and tailwind css**
 
 - 📫 How to reach me **baris.fb.1997@hotmail.com**
 
