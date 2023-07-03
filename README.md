@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">I am a economist. I decided to change my sector. I am looking for a job as a Frontend Developer.</h3>
 
-
+<br>
 
 - 🌱 I’m currently learning **tailwind css, redux**
 
