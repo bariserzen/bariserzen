@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **tailwind css, redux**
+- 🌱 I’m currently learning **redux, tailwind css**
 
 - 📫 How to reach me **baris.fb.1997@hotmail.com**
 
