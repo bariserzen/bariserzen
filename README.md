@@ -1,14 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">I am a economist. I decided to change my sector. I am looking for a job as a React Frontend Developer.</h3>
+<h3 align="center">I am a economist. I decided to change my sector. I am looking for a job as a Frontend Developer.</h3>
 
-<br>
-<br>
 - 🌱 I’m currently learning **tailwind css, redux**
-<br>
+
 - 📫 How to reach me **baris.fb.1997@hotmail.com**
-  <br>
-- 💻 You can visit my portfolio page **coming soon
+
+- ⚡ You can visit my portfolio page **coming soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
