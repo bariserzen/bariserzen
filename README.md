@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **baris.fb.1997@hotmail.com**
 
-- ⚡ You can visit my portfolio page **bariserzen.netlify.app/**
+- ⚡ You can visit my portfolio page **https://bariserzen.netlify.app/**
 <br>
 
 <h3 align="left">Connect with me:</h3>
