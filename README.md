@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">I am a economist. I decided to change my sector. I'm trying to improve myself to become a React Frontend Developer.</h3>
+<h3 align="center">React Frontend Developer.</h3>
 
 <br>
 
